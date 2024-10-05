@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gide-M
 - 👀 I’m interested in fullstack
 - 🌱 I’m currently learning java, python and assembly
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on programing projets
 - 📫 How to reach me ...jerubaalvaloroso@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...i´m a beginer 
